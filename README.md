@@ -56,9 +56,9 @@ Built with a responsive dark-mode aesthetic and modular widget architecture, it 
 ### 📹 Video Walkthrough
 
 <div align="center">
-  <video src="bmi-calculator.mp4" width="300" controls></video>
+  <video src="https://youtube.com/shorts/zhtE94SH7Z8?feature=share" width="300" controls></video>
   <p>
-    <sub>▶️ <em>Direct video link: <a href="bmi-calculator.mp4">bmi-calculator.mp4</a></em></sub>
+    <sub>▶️ <em>Direct video link: <a href="https://youtube.com/shorts/zhtE94SH7Z8?feature=share">bmi-calculator.mp4</a></em></sub>
   </p>
 </div>
 
